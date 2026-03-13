@@ -18,10 +18,10 @@
 
 ### 🎨 Creative Designer · UI/UX · Branding · Web · Android
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-ff2d78?style=for-the-badge&logoColor=white)](https://moekyawaung-designer.github.io/moekyawaug-designer.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-ff2d78?style=for-the-badge&logoColor=white)](https://Moekyaw-Aung.github.io/Moekyaw-Aung.github.io/)
 [![Wiki](https://img.shields.io/badge/📖_Wiki-Docs-bf5fff?style=for-the-badge)](https://moekyawaung-designer.github.io/moekyawaug-designer.github.io/wiki.html)
 [![Email](https://img.shields.io/badge/✉_Email-Contact-00f5ff?style=for-the-badge)](mailto:hello@moekyawaung.com)
-[![GitHub](https://img.shields.io/badge/⌥_GitHub-@moekyawaung--designer-39ff14?style=for-the-badge)](https://github.com/moekyawaung-designer)
+[![GitHub](https://img.shields.io/badge/⌥_GitHub-@moekyawaung--designer-39ff14?style=for-the-badge)](https://github.com/Moekyaw-Aung)
 
 ---
 
